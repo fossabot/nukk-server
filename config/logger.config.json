@@ -1,0 +1,21 @@
+{
+  "loggers":[{
+    "file": "nukk.log"
+  },{
+    "file": "errors.nukk.log",
+    "level": "error",
+    "disabled": false
+  },{
+    "file": "info.nukk.log",
+    "level": "info",
+    "disabled": true
+  },{
+    "file": "warns.nukk.log",
+    "level": "warn",
+    "disabled": true
+  },{
+    "file": "debugs.nukk.log",
+    "level": "debug",
+    "disabled": true
+  }]
+}

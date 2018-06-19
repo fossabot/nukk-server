@@ -1,0 +1,6 @@
+{
+	"logLevel": "all",
+	"port": 8008,
+	"domain": "localhost",
+	"protocol": "http"
+}
