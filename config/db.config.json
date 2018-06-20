@@ -1,16 +1,5 @@
 {
-  "database": "nukk",
-  "username": "sa",
-  "password": "sa",
-  "options": {
-    "host": "127.0.0.1\\SQLEXPRESS",
-    "dialect": "mssql",
-    "operatorsAliases": false,
-    "pool": {
-      "max": 5,
-      "min": 0,
-      "acquire": 30000,
-      "idle": 10000
-    }
-  }
+	"server": "localhost",
+	"database": "soccer-api"
 }
+

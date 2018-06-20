@@ -2,5 +2,8 @@
 	"logLevel": "all",
 	"port": 8008,
 	"domain": "localhost",
-	"protocol": "http"
+	"protocol": "http",
+	"ALERTAS": {
+		"TRAMA_CORRUPTA": "💥💥La trama enviada está corrupta o no cumple con los requisitos mínimos de consumo💥💥 \n Para mayor informaciòn consulte => https://github.com/ISWPOLI/Monotributo/blob/backend-node/docs/juan/tablaApis.md"
+	}
 }
